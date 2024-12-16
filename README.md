@@ -22,7 +22,8 @@ I'm a passionate developer with experience in **[Tecnologias/linguagens que voc�
 You can find me working on projects involving **[principais áreas de interesse ou especialização]**. I'm also interested in **[outra área que você quer explorar ou aprender]**, and I'm looking for opportunities to grow and contribute to the developer community.
 
 ### My Skills
-
+![JavaScript](https://img.shields.io/badge/JavaScript-ffcc00?style=flat&logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - **Programming Languages:** [Linguagens que você domina]
 - **Tools & Technologies:** [Ferramentas que você utiliza no dia a dia]
 - **Frameworks:** [Frameworks que você usa ou está aprendendo]
