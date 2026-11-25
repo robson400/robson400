@@ -1,34 +1,23 @@
-name: RW Studio - Contribution Animation
-
+name: Contribution animation
 on:
   schedule:
-    - cron: "0 3 * * *"
-
+    - cron: '23 3 * * *'
   workflow_dispatch:
-
-  push:
-    branches:
-      - main
-
 permissions:
-  contents: write
-
+  contents: read
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
+    permissions:
+      contents: write
     steps:
-      - name: Generate monochrome contribution animations
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=#111111&color_dots=#ebedf0,#d4d4d4,#a3a3a3,#737373,#262626
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ffffff&color_dots=#161616,#333333,#555555,#888888,#cccccc
-
-      - name: Publish animations
-        uses: crazy-max/ghaction-github-pages@v4
+            dist/contributions.svg?color_snake=%23777777&color_dots=%23eeeeee,%23cccccc,%23999999,%23666666,%23333333
+            dist/contributions-dark.svg?color_snake=%23ffffff&color_dots=%23181818,%23333333,%23555555,%23888888,%23bbbbbb
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
