@@ -1,75 +1,116 @@
-# 🚀 Robson William - Frontend Developer
+<div align="center">
 
-👋 Olá! Eu sou o Robson William, um desenvolvedor Frontend apaixonado por criar experiências web incríveis e intuitivas. Este projeto é um reflexo da minha jornada para entregar interfaces elegantes e funcionais.
+<img src="assets/cover.svg" alt="Robson William — RW Studio. Developer, Designer, Professor e Mentor." width="900" />
 
----
+[SAIBA MAIS](https://robsonwilliam.digital)　/　[LINKEDIN](https://www.linkedin.com/in/robson-william-rw/)
 
-## 🌟 Sobre o Projeto
+<sub>ESTRATÉGIA · CRIAÇÃO · TECNOLOGIA · MENTORIA</sub>
 
-Este projeto tem como objetivo criar uma interface moderna e interativa para [descrever o propósito do projeto]. Desenvolvido com as melhores práticas de frontend, ele é ideal para quem deseja [detalhar o público-alvo ou propósito].
-
----
-
-## 👨‍💻 Sobre Mim
-
-Sou apaixonado por construir interfaces rápidas, acessíveis e que proporcionam a melhor experiência ao usuário. Com experiência em HTML, CSS, JavaScript, e algumas outras tecnologias, estou sempre em busca de aprender e aprimorar minhas habilidades para desenvolver soluções cada vez mais inovadoras.
+</div>
 
 ---
 
-## 🛠️ Minhas Habilidades
+<sub>01 / IDENTIDADE</sub>
 
-- **Frontend:** HTML, CSS, JavaScript, React, Vue.js
-- **Design:** Figma, Adobe XD, UI/UX
-- **Ferramentas:** Git, Webpack, VS Code, Postman
-- **Metodologias:** Agile, Scrum
+## Ideias que viram soluções. Conhecimento que vira caminho.
+
+Sou Robson William, desenvolvedor frontend, designer, professor e mentor. Na **RW Studio**, conecto educação, estratégia e tecnologia para transformar desafios em experiências digitais e conhecimento em prática.
+
+> A tecnologia é uma ferramenta. O conhecimento é o que nos permite criar com propósito.
+
+<img src="assets/terminal.svg" width="900" alt="Manifesto: aprender com intenção, construir com critério, compartilhar conhecimento e evoluir continuamente." />
+
+<sub>02 / SISTEMA DE ATUAÇÃO</sub>
+
+## Da ideia ao mundo real.
+
+| `01 / EDUCATION` | `02 / DEVELOPMENT` |
+| :--- | :--- |
+| **Educação & mentoria** | **Sistemas & experiências digitais** |
+| Orientação, autonomia e aprendizado aplicado. | Interfaces, sites e soluções web. |
+| `03 / DESIGN` | `04 / INTELLIGENCE` |
+| **Design & estratégia** | **Automação & IA** |
+| Comunicação, direção de arte e experiência do usuário. | Integrações para simplificar processos. |
+
+<sub>03 / TOOLKIT</sub>
+
+## Explore meu repertório.
+
+<details open>
+<summary><b>01 / Desenvolvimento frontend</b></summary>
+
+`HTML5` · `CSS3` · `JavaScript` · `React` · `Vue.js`
+
+Interfaces semânticas, responsivas e acessíveis.
+</details>
+<details>
+<summary><b>02 / Design e experiência</b></summary>
+
+`Figma` · `Adobe XD` · `UI/UX`
+
+Da estratégia visual à experiência de interação.
+</details>
+<details>
+<summary><b>03 / Ferramentas e processos</b></summary>
+
+`Git` · `Webpack` · `VS Code` · `Postman` · `Agile` · `Scrum`
+
+Organização, colaboração e evolução contínua.
+</details>
+<details>
+<summary><b>04 / Educação e mentoria</b></summary>
+
+Clareza de objetivos, fundamentos, projetos práticos e desenvolvimento de autonomia.
+</details>
+
+<sub>04 / MÉTODO</sub>
+
+## Como penso antes de construir.
+
+```text
+ENTENDER ────── PROJETAR ────── CONSTRUIR ────── EVOLUIR
+    │               │               │               │
+ contexto        estratégia      execução        feedback
+```
+
+<details>
+<summary>Ver princípios de desenvolvimento</summary>
+
+```yaml
+rw_studio:
+  mindset: learning_by_doing
+  priorities:
+    - semantic_html
+    - accessibility
+    - performance
+    - clean_code
+    - meaningful_design
+```
+</details>
+
+<sub>05 / OPEN SOURCE ACTIVITY</sub>
+
+## Construindo em público.
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robson400/robson400/output/contributions-dark.svg" />
+  <img alt="Animação das contribuições reais do GitHub" src="https://raw.githubusercontent.com/robson400/robson400/output/contributions.svg" width="900" />
+</picture> -->
+
+Cada contribuição é parte de um processo: experimentar, aprender, compartilhar e melhorar.
 
 ---
 
-## 📚 O que aprendi
+<div align="center">
 
-Construir esse projeto me ensinou a [descrever o aprendizado, por exemplo, integração com APIs, melhorias de performance, novas bibliotecas ou frameworks que aprendeu]. Além disso, tive que enfrentar desafios como [mencionar problemas], mas consegui superá-los com [explicar como resolveu].
+<sub>06 / NEXT CONNECTION</sub>
 
----
+## Não basta saber. É preciso criar.
 
-## 📸 Screenshots
+Mentoria · Projetos digitais · Parcerias educacionais
 
-Aqui está um pouco do que você pode esperar desse projeto:
+[Explore meu trabalho](https://robsonwilliam.digital)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<sub>RW STUDIO_ / BRASIL</sub>
 
----
-
-## 📅 Roadmap
-
-O que vem por aí:
-
-- Melhorar a compatibilidade com navegadores mais antigos.
-- Adicionar novas integrações com APIs externas.
-- Implementar autenticação e autorização de usuários.
-- Melhorar a acessibilidade e performance.
-
----
-
-## ⚡ Melhorias Realizadas
-
-- **Refatoração de código:** Organizei melhor o código, tornando-o mais modular e fácil de manter.
-- **Melhoria de performance:** Usei técnicas como lazy loading e otimização de imagens para reduzir o tempo de carregamento.
-- **Acessibilidade:** Adicionei descrições e roles semânticas para garantir que o site seja utilizável para todos.
-
----
-
-## 🌐 Links
-
-Conecte-se comigo ou explore meu trabalho:
-
-[![Portfólio](https://img.shields.io/badge/portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://robsonwilliam.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robsonwilliam/)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/robsonwilliam)
-
----
-
-## 📚 Referências
-
-- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [How to write a Good README](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+</div>
