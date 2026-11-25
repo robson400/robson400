@@ -93,8 +93,19 @@ rw_studio:
 ## Construindo em público.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robson400/robson400/output/contributions-dark.svg" />
-  <img alt="Animação das contribuições reais do GitHub" src="https://raw.githubusercontent.com/robson400/robson400/output/contributions.svg" width="900" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/robson400/robson400/output/contributions-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/robson400/robson400/output/contributions.svg"
+  />
+  <img
+    alt="Animação das contribuições do GitHub"
+    src="https://raw.githubusercontent.com/robson400/robson400/output/contributions.svg"
+    width="900"
+  />
 </picture>
 
 Cada contribuição é parte de um processo: experimentar, aprender, compartilhar e melhorar.
